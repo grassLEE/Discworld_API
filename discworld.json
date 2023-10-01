@@ -1,0 +1,1591 @@
+{
+    "links": {
+        "self": "/authors/OL10824473A/works.json",
+        "author": "/authors/OL10824473A",
+        "next": "/authors/OL10824473A/works.json?offset=50"
+    },
+    "size": 242,
+    "entries": [
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Stroke of the Pen",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    }
+                }
+            ],
+            "key": "/works/OL36478055W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-08-17T06:04:07.138548"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-17T06:04:07.138548"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Good Omens",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL53305A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28958720W",
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-10-09T01:44:28.591298"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-07T08:16:07.758746"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Good Omens",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL53305A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "covers": [
+                14119553
+            ],
+            "key": "/works/OL35126759W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-18T05:15:49.002677"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-06T17:12:51.305641"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Good Omens",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL53305A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "covers": [
+                14119554
+            ],
+            "key": "/works/OL35126758W",
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-04-18T05:15:49.005660"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-06T17:12:07.736948"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Carpe Jugulum",
+            "subjects": [
+                "Discworld (imaginary place), fiction",
+                "Fiction, fantasy, general"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27426802W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-28T22:00:38.044645"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:19:42.919449"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Carpe Jugulum",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28352526W",
+            "subtitle": "(Discworld Novel 23)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-07-18T17:28:29.565212"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:19:36.511209"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Carpe Jugulum",
+            "subjects": [
+                "English literature"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27809792W",
+            "subtitle": "(Discworld Novel 23)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-05-25T17:31:08.421969"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:19:28.203475"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Carpe Jugulum",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3206965A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL29250318W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-10-31T04:50:28.563004"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:19:23.234635"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Carpe Jugulum",
+            "subjects": [
+                "English Fantasy fiction",
+                "Translations into Polish",
+                "Discworld (Imaginary place)",
+                "Fiction",
+                "Witches",
+                "Vampires",
+                "Disque-monde (Lieu imaginaire)",
+                "Romans, nouvelles",
+                "Sorci\u00e8res"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "covers": [
+                12863500
+            ],
+            "key": "/works/OL28756951W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-08-19T08:23:37.107421"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:19:17.928355"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Wintersmith",
+            "subjects": [
+                "Children's fiction",
+                "Witches, fiction",
+                "Fantasy fiction",
+                "Winter, fiction",
+                "Fairies, fiction"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27426877W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-28T22:04:40.862219"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:18:03.726828"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Making Money",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL29049136W",
+            "subtitle": "(Discworld Novel 36)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-10-18T04:58:41.498871"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:17:55.795818"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Unseen Academicals",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28802129W",
+            "subtitle": "(Discworld Novel 37)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-09-17T17:08:35.223847"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:17:47.268492"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Unseen Academicals",
+            "subjects": [
+                "English literature"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27814458W",
+            "subtitle": "(Discworld Novel 37)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-05-25T19:22:45.802080"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:17:39.532360"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "I Shall Wear Midnight",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL5196765A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27305210W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-19T02:43:03.823497"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:17:34.674568"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "I Shall Wear Midnight",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27484938W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-03-02T03:59:26.686670"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:17:29.709347"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "I Shall Wear Midnight",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27968263W",
+            "covers": [
+                14207380
+            ],
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-06-08T15:54:36.885893"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:17:20.950630"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Raising Steam",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL29047755W",
+            "subtitle": "(Discworld Novel 40)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-10-18T04:40:14.155949"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:17:15.461830"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Shepherd's Crown",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27484887W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-03-02T03:58:06.820930"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:17:08.780557"
+            }
+        },
+        {
+            "title": "The Shepherd's Crown",
+            "key": "/works/OL20647569W",
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction",
+                "Discworld (Imaginary place)",
+                "Witches",
+                "Large type books",
+                "Disque-monde (Lieu imaginaire)",
+                "Romans, nouvelles",
+                "Sorci\u00e8res",
+                "Livres en gros caract\u00e8res",
+                "Large print books"
+            ],
+            "covers": [
+                12786730
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2020-02-24T17:04:18.639847"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:17:00.219096"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Hat Full of Sky",
+            "subjects": [
+                "Children's fiction",
+                "Fantasy fiction",
+                "Humorous stories",
+                "Witches, fiction",
+                "Fairies, fiction",
+                "Monsters, fiction"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27426787W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-28T21:59:34.815125"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:14:52.367943"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Monstrous Regiment",
+            "subjects": [
+                "Discworld (imaginary place), fiction",
+                "Fiction, war & military",
+                "Fiction, fantasy, general"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27418560W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-28T12:15:56.029189"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:14:19.043446"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Monstrous Regiment",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL29054556W",
+            "subtitle": "(Discworld Novel 31)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-10-18T06:16:18.058078"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:14:14.005266"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Wee Free Men",
+            "subjects": [
+                "Fantasy fiction",
+                "Humorous stories",
+                "Fairies, fiction",
+                "Children's fiction",
+                "Witches, fiction"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27426454W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-28T21:47:58.913304"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:13:30.874920"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Wee Free Men",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27485070W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-03-02T04:03:34.044522"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:13:25.932199"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Amazing Maurice and His Educated Rodents",
+            "subjects": [
+                "Cats, fiction",
+                "Musicians, fiction",
+                "Human-animal relationships, fiction",
+                "Humorous stories",
+                "Rats, fiction",
+                "Children's fiction"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27429402W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-28T23:53:47.124523"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:12:35.302797"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "The Amazing Maurice and His Educated Rodents",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28183079W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-07-05T23:54:02.827129"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:12:30.375491"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Amazing Maurice and His Educated Rodents",
+            "subjects": [
+                "Cats, fiction",
+                "Musicians, fiction",
+                "Human-animal relationships, fiction",
+                "Humorous stories",
+                "Rats, fiction",
+                "Children's fiction"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL26530831W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2021-12-26T16:43:06.287540"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:12:26.133223"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Last Hero",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2629595A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27434575W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-03-01T04:32:22.608827"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:11:56.114925"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Le dernier h\u00e9ros",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "description": "Toutes les grandes figures du Disque-monde r\u00e9unies avec en point de mire, le dernier h\u00e9ros, le plus grand de tous, Cohen le Barbare \u00e0 la t\u00eate de ses tr\u00e8s vieux amis de la horde d'Argent, en marche pour leur derni\u00e8re aventure.",
+            "covers": [
+                12682923
+            ],
+            "key": "/works/OL27696196W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-03-22T06:07:45.698937"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:11:51.727731"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Thief of Time",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28021933W",
+            "subtitle": "(Discworld Novel 26)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-06-18T02:07:58.298579"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:11:25.556917"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "The Truth",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL5196765A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27974685W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-06-15T08:06:33.506056"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:10:46.929689"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Truth",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL29046279W",
+            "subtitle": "(Discworld Novel 25)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-10-18T04:21:42.701509"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:10:42.160670"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Le cinqui\u00e8me \u00e9l\u00e9phant - tome 24",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3113878A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27968155W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-06-08T08:44:06.409086"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:10:11.717417"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "The Fifth Elephant",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL5196765A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "covers": [
+                12600151
+            ],
+            "key": "/works/OL27277290W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-01T10:36:12.802439"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:10:06.667871"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Last Continent",
+            "subjects": [
+                "Fiction, fantasy, general"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27431657W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-03-01T01:51:06.731126"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:09:31.533511"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Last Continent",
+            "subjects": [
+                "Fiction, fantasy, general",
+                "Fiction, thrillers, suspense"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL26543469W",
+            "covers": [
+                13750412
+            ],
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2021-12-26T21:40:22.228434"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:09:26.154734"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Last Continent",
+            "subjects": [
+                "English literature"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27804432W",
+            "subtitle": "(Discworld Novel 22)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-05-25T15:56:29.801074"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:09:16.801525"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Jingo",
+            "subjects": [
+                "Fiction, fantasy, general"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27976432W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-06-17T02:37:18.663414"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:08:04.833337"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Jingo",
+            "subjects": [
+                "Fiction, fantasy, general"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27426801W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-28T22:00:37.441374"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:08:00.506154"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Hogfather",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28021935W",
+            "subtitle": "(Discworld Novel 20)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-06-18T02:08:03.488776"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:07:38.574820"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Maskerade",
+            "subjects": [
+                "Fiction, fantasy, general",
+                "Discworld (imaginary place), fiction",
+                "Granny weatherwax (fictitious character), fiction"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27445916W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-03-01T10:01:02.290099"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:02:47.991342"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Maskerade",
+            "subjects": [
+                "English literature"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27820536W",
+            "subtitle": "(Discworld Novel 18)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-05-25T21:45:56.441847"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:02:43.159299"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Maskerade",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28354248W",
+            "subtitle": "(Discworld Novel 18)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-07-18T18:08:52.335615"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:02:35.415573"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Interesting Times",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28802128W",
+            "subtitle": "(Discworld Novel 17)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-09-17T17:08:34.711356"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:01:58.455075"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Interesting Times",
+            "subjects": [
+                "English literature"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27820535W",
+            "subtitle": "(Discworld Novel 17)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-05-25T21:45:47.425226"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:01:51.088251"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Soul Music",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28021936W",
+            "subtitle": "(Discworld Novel 16)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-06-18T02:08:08.625897"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:01:23.012293"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Men at Arms",
+            "subjects": [
+                "Fiction, fantasy, general"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27428173W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-02-28T22:59:10.898382"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:01:17.650871"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Lords and Ladies",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1122355A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28173073W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-06-24T18:09:10.175612"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:00:20.670442"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Lords and Ladies",
+            "subjects": [
+                "English literature"
+            ],
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL27809790W",
+            "subtitle": "(Discworld Novel 14)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-05-25T17:31:06.980427"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:00:15.078020"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Lords and Ladies",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL10824473A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL28344610W",
+            "subtitle": "(Discworld Novel 14)",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-07-18T14:41:28.937708"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-08-01T00:00:09.607523"
+            }
+        }
+    ]
+}
